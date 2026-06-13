@@ -81,6 +81,8 @@ docs/newfold-vault-433/
 ├── CONTRIBUTING.md
 ├── GOVERNANCE.md
 ├── LICENSE_SELECTION.md
+├── daily-shares/
+│   └── 2026-06-12-disclosure-day-trillionaire-day-alphafold.md
 ├── docs/
 │   └── NEWFOLD_VAULT_433_FRAMEWORK.md
 └── templates/
@@ -99,6 +101,12 @@ docs/newfold-vault-433/
 ## Full framework
 
 Read the complete foundational document: [`docs/NEWFOLD_VAULT_433_FRAMEWORK.md`](docs/NEWFOLD_VAULT_433_FRAMEWORK.md).
+
+## Daily AI Tone Vibe shares
+
+Public daily shares apply the VAULT 433 evidence lanes to dated cultural, scientific, and technology events while keeping symbolic interpretation separate from verified fact.
+
+- [`June 12, 2026 — Disclosure Day, Trillionaire Day, and the AlphaFold Science Lane`](daily-shares/2026-06-12-disclosure-day-trillionaire-day-alphafold.md)
 
 ## Open-source participation
 
