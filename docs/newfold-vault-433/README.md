@@ -80,7 +80,6 @@ docs/newfold-vault-433/
 ├── README.md
 ├── CONTRIBUTING.md
 ├── GOVERNANCE.md
-├── LICENSE_SELECTION.md
 ├── daily-shares/
 │   └── 2026-06-12-disclosure-day-trillionaire-day-alphafold.md
 ├── docs/
@@ -116,7 +115,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`GOVERNANCE.md`](GOVERNANCE.md).
 
 ## License status
 
-This module is published under the repository's existing MIT License. A documentation-specific Creative Commons option may be adopted later; see [`LICENSE_SELECTION.md`](LICENSE_SELECTION.md).
+Repository software and code remain under the existing MIT License. Public NEWFOLD / VAULT 433 documentation and Daily AI Tone Vibe shares are published under the **Creative Commons Attribution 4.0 International License — CC BY 4.0**. Attribution to **Theresa J. Morris (TJ Morris)** is required when the documentation is copied, adapted, redistributed, or republished.
 
 ## Foundational statement
 
