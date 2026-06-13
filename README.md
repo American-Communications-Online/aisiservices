@@ -42,7 +42,7 @@ Use **Theresa J. Morris (TJ Morris)** as the formal first reference. **TJ Thurmo
 
 ## Deployment
 
-This repository contains a static website designed for deployment from the `main` branch through Cloudflare Pages or another static host.
+This repository contains a static website designed for deployment from the `main` branch through Cloudflare Pages, Cloudflare Workers static assets, or another static host.
 
 Recommended Cloudflare Pages settings:
 
@@ -52,6 +52,8 @@ Framework preset: None
 Build command: leave blank
 Build output directory: /
 ```
+
+The root `_headers` file publishes a standards-based HTTP `Link` header identifying the CC BY 4.0 content license for Cloudflare-served static assets.
 
 ## Account-safety boundary
 
@@ -64,4 +66,9 @@ American Communications Online (ACO)
 
 ## License
 
-MIT License
+This repository uses a split-license model:
+
+- **Software source code:** MIT License — see [`LICENSE`](LICENSE).
+- **Original written content, archival framework material, and public-facing documentation:** Creative Commons Attribution 4.0 International (**CC BY 4.0**) — see [`CONTENT-LICENSE.md`](CONTENT-LICENSE.md).
+
+Third-party materials, trademarks, logos, personal information, and materials identified as having separate rights are not relicensed by the repository license notices.
