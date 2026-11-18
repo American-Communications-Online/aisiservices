@@ -5,12 +5,24 @@
 - Prompt text:
 - Scope and constraints:
 
-## Per-model record (repeat for each model in CCCDHGMX)
+## Approved roster
+
+Record every required seat before collecting responses. Use a unique position identifier for each seat, including repeated labels. Mark missing responses explicitly.
+
+- Configuration label:
+- Roster approval reference:
+
+| Seat position | Model / version | Provider or endpoint | Response status (received / missing) |
+|---|---|---|---|
+
+## Per-model record (repeat for each responding seat)
 | Field | Value |
 |---|---|
+| Seat position | |
 | Model / version | |
 | Run date | |
 | Summary answer | |
+| Full verbatim output or stable archived transcript link | |
 | Confidence (low/med/high) | |
 
 ### Claims and evidence
