@@ -22,4 +22,4 @@ Scales from grounded human observation and public evidence, through multi-model 
 
 ## License
 
-Contributions are governed by the Community Research License; see [CONTENT-LICENSE.md](../../CONTENT-LICENSE.md).
+This documentation is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0); see [CONTENT-LICENSE.md](../../CONTENT-LICENSE.md).
