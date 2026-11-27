@@ -1,5 +1,7 @@
 # AISI Services --- Wordology and Interoperability Ledger
 
+**Current public status:** Authorized public working edition, November 26, 2026. Listed standards are references; no outside certification or deployed federation is claimed.
+
 Date: 2026-11-25 \| Proposed ID: AISI-WORDOLOGY-001 \| Status: Working
 draft
 
