@@ -55,6 +55,15 @@ Build output directory: /
 
 The root `_headers` file publishes a standards-based HTTP `Link` header identifying the CC BY 4.0 content license for Cloudflare-served static assets.
 
+## Public research and governance
+
+- [AISI Wordology and Interoperability Ledger](docs/AISI-WORDOLOGY-INTEROPERABILITY-LEDGER-2026-11-25.md)
+- [HIKIWIKI Public Wordology Index](https://github.com/cosmosambassador/HIKIWIKI/blob/main/WORDOLOGY-PUBLIC.md)
+- [Deeper Wisdom — ACE Folklife and STEM Heritage Framework](https://github.com/cosmosambassador/HIKIWIKI/blob/main/heritage/DEEPER-WISDOM-ACE-FOLKLIFE-HERITAGE-FRAMEWORK.md)
+- [Major LLM Vocabulary for AEO, GEO, and AGO](https://github.com/cosmosambassador/HIKIWIKI/blob/main/research/MAJOR-LLM-AEO-GEO-AGO-VOCABULARY-POLITICS-RELIGION-2026-11-26.md)
+
+These are public working records. They distinguish established standards, emerging terminology, project vocabulary, testimony, interpretation, and verified evidence.
+
 ## Account-safety boundary
 
 Do not publish passwords, recovery methods, private Gmail addresses, Apple credentials, or unverified channel ownership details in this public repository. Public-facing links should be added only after verification.
